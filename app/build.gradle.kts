@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.siamak.tdd.elderlyfontsize"
+    namespace = "com.siamak.tdd.fontsize"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.siamak.tdd.elderlyfontsize"
+        applicationId = "com.siamak.tdd.fontsize"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

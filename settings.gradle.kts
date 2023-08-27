@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TDD.Example - ElderlyFontSize"
+rootProject.name = "TDD.Example - FontSize"
 include(":app")
  
